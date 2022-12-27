@@ -2148,6 +2148,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HeartLine
       objectReference: {fileID: 0}
+    - target: {fileID: 8551986747242683046, guid: fd27b5bdad5b4744eb25bacdfe4238de, type: 3}
+      propertyPath: m_text
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd27b5bdad5b4744eb25bacdfe4238de, type: 3}
 --- !u!1001 &8606874238532287519
