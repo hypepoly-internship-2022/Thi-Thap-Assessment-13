@@ -24,9 +24,9 @@ public class ScoreUI : MonoBehaviour
     {
         if(GameMgr.getInstance().winLose == true)
         {
-            star1.color = color.white;
-            star2.color = color.white;
-            star3.color = color.white;
+            star1.color = Color.white;
+            star2.color = Color.white;
+            star3.color = Color.white;
             GameMgr.getInstance().winLose = false;
         }
     }
